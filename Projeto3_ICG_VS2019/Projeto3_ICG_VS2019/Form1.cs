@@ -1,6 +1,17 @@
-﻿using System;
+﻿/*Colegio Técnico Antônio Teixeira Fernandes (Univap)
+ * Curso Técnico em Informática - Data de Entrega: 11 / 09 / 2026
+ * Autores do Projeto: Pedro Ricarte Gisler
+    Júlia Carolina Maciel
+ *
+ * Turma: 3F
+ * Projeto 3 de ICG - Mosaico de Triângulos
+ * Observação: 
+ * 
+ * 
+ * ******************************************************************/
+using System;
 using System.Drawing;
-using System.Drawing.Drawing2D; // Necessário apenas para SmoothingMode (antialiasing do desenho)
+using System.Drawing.Drawing2D;
 using System.Windows.Forms;
 
 namespace Projeto3_TESTE_ICG
@@ -112,6 +123,30 @@ namespace Projeto3_TESTE_ICG
         {
             corSelecionada = Cor(255, 255, 0); // Amarelo
         }
+        private void btn_cor_6_Click_1(object sender, EventArgs e)
+        {
+            corSelecionada = Cor(128, 0, 128); // Roxo
+        }
+
+        private void btn_cor_7_Click_1(object sender, EventArgs e)
+        {
+            corSelecionada = Cor(0, 255, 127); // Verde Água
+        }
+
+        private void btn_cor_8_Click_1(object sender, EventArgs e)
+        {
+            corSelecionada = Cor(255, 140, 0); // Laranja
+        }
+
+        private void btn_cor_9_Click_1(object sender, EventArgs e)
+        {
+            corSelecionada = Cor(139, 69, 19); // Marrom
+        }
+
+        private void btn_cor_10_Click_1(object sender, EventArgs e)
+        {
+            corSelecionada = Cor(255, 105, 180); // Rosa Choque
+        }
 
         // Restaura todos os triângulos para a cor branca original
         private void btn_limpar_Click(object sender, EventArgs e)
@@ -121,7 +156,7 @@ namespace Projeto3_TESTE_ICG
                 coresTriangulos[i] = Cor(255, 255, 255);
             }
 
-            this.Invalidate();
+            Invalidate();
         }
 
         #endregion
@@ -175,7 +210,7 @@ namespace Projeto3_TESTE_ICG
 
         #region Clique do mouse (seleção de face)
 
-        // Evento que detecta o clique do mouse (sem usar protected override)
+        // Evento que detecta o clique do mouse 
         private void Form1_MouseClick(object sender, MouseEventArgs e)
         {
             // Mesmos valores usados no Paint — nunca duplicar o cálculo aqui,
@@ -211,14 +246,14 @@ namespace Projeto3_TESTE_ICG
         private void trkTranslacaoX_Scroll(object sender, EventArgs e)
         {
             deslocamentoX = trkTranslacaoX.Value;
-            this.Invalidate();
+            Invalidate();
         }
 
         // Translação no eixo Y
         private void trkTranslacaoY_Scroll(object sender, EventArgs e)
         {
             deslocamentoY = trkTranslacaoY.Value;
-            this.Invalidate();
+            Invalidate();
         }
 
         // Escala (redimensiona em relação ao centro, pois o centro nunca muda,
@@ -227,7 +262,7 @@ namespace Projeto3_TESTE_ICG
         {
             // O TrackBar trabalha com inteiros (ex: 50 a 200) -> convertido para fator 0.5 a 2.0
             fatorEscala = trkEscala.Value / 100f;
-            this.Invalidate();
+            Invalidate();
         }
 
         #endregion
@@ -304,5 +339,7 @@ namespace Projeto3_TESTE_ICG
         }
 
         #endregion
+
+        
     }
 }

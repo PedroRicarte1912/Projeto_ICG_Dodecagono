@@ -14,3 +14,11 @@ C:\Users\Pedro\Downloads\Projeto3_ICG_VS2019\Projeto3_ICG_VS2019\Projeto3_ICG_VS
 C:\Users\Pedro\Downloads\Projeto3_ICG_VS2019\Projeto3_ICG_VS2019\Projeto3_ICG_VS2019\obj\Debug\Projeto3_TESTE_ICG.csproj.CoreCompileInputs.cache
 C:\Users\Pedro\Downloads\Projeto3_ICG_VS2019\Projeto3_ICG_VS2019\Projeto3_ICG_VS2019\obj\Debug\Projeto3_TESTE_ICG.exe
 C:\Users\Pedro\Downloads\Projeto3_ICG_VS2019\Projeto3_ICG_VS2019\Projeto3_ICG_VS2019\obj\Debug\Projeto3_TESTE_ICG.pdb
+D:\ICG\Projeto3_ICG_VS2019\Projeto3_ICG_VS2019\Projeto3_ICG_VS2019\bin\Debug\Projeto3_TESTE_ICG.exe
+D:\ICG\Projeto3_ICG_VS2019\Projeto3_ICG_VS2019\Projeto3_ICG_VS2019\bin\Debug\Projeto3_TESTE_ICG.pdb
+D:\ICG\Projeto3_ICG_VS2019\Projeto3_ICG_VS2019\Projeto3_ICG_VS2019\obj\Debug\Projeto3_TESTE_ICG.csproj.AssemblyReference.cache
+D:\ICG\Projeto3_ICG_VS2019\Projeto3_ICG_VS2019\Projeto3_ICG_VS2019\obj\Debug\Projeto3_TESTE_ICG.Form1.resources
+D:\ICG\Projeto3_ICG_VS2019\Projeto3_ICG_VS2019\Projeto3_ICG_VS2019\obj\Debug\Projeto3_TESTE_ICG.csproj.GenerateResource.cache
+D:\ICG\Projeto3_ICG_VS2019\Projeto3_ICG_VS2019\Projeto3_ICG_VS2019\obj\Debug\Projeto3_TESTE_ICG.csproj.CoreCompileInputs.cache
+D:\ICG\Projeto3_ICG_VS2019\Projeto3_ICG_VS2019\Projeto3_ICG_VS2019\obj\Debug\Projeto3_TESTE_ICG.exe
+D:\ICG\Projeto3_ICG_VS2019\Projeto3_ICG_VS2019\Projeto3_ICG_VS2019\obj\Debug\Projeto3_TESTE_ICG.pdb
