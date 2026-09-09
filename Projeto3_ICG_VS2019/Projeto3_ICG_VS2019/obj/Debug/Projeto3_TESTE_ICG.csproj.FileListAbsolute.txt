@@ -1,0 +1,16 @@
+C:\Users\julia\Downloads\Projeto3_ICG_VS2019\Projeto3_ICG_VS2019\bin\Debug\Projeto3_TESTE_ICG.exe
+C:\Users\julia\Downloads\Projeto3_ICG_VS2019\Projeto3_ICG_VS2019\bin\Debug\Projeto3_TESTE_ICG.pdb
+C:\Users\julia\Downloads\Projeto3_ICG_VS2019\Projeto3_ICG_VS2019\obj\Debug\Projeto3_TESTE_ICG.csproj.AssemblyReference.cache
+C:\Users\julia\Downloads\Projeto3_ICG_VS2019\Projeto3_ICG_VS2019\obj\Debug\Projeto3_TESTE_ICG.csproj.CoreCompileInputs.cache
+C:\Users\julia\Downloads\Projeto3_ICG_VS2019\Projeto3_ICG_VS2019\obj\Debug\Projeto3_TESTE_ICG.exe
+C:\Users\julia\Downloads\Projeto3_ICG_VS2019\Projeto3_ICG_VS2019\obj\Debug\Projeto3_TESTE_ICG.pdb
+C:\Users\julia\Downloads\Projeto3_ICG_VS2019\Projeto3_ICG_VS2019\obj\Debug\Projeto3_TESTE_ICG.Form1.resources
+C:\Users\julia\Downloads\Projeto3_ICG_VS2019\Projeto3_ICG_VS2019\obj\Debug\Projeto3_TESTE_ICG.csproj.GenerateResource.cache
+C:\Users\Pedro\Downloads\Projeto3_ICG_VS2019\Projeto3_ICG_VS2019\Projeto3_ICG_VS2019\bin\Debug\Projeto3_TESTE_ICG.exe
+C:\Users\Pedro\Downloads\Projeto3_ICG_VS2019\Projeto3_ICG_VS2019\Projeto3_ICG_VS2019\bin\Debug\Projeto3_TESTE_ICG.pdb
+C:\Users\Pedro\Downloads\Projeto3_ICG_VS2019\Projeto3_ICG_VS2019\Projeto3_ICG_VS2019\obj\Debug\Projeto3_TESTE_ICG.csproj.AssemblyReference.cache
+C:\Users\Pedro\Downloads\Projeto3_ICG_VS2019\Projeto3_ICG_VS2019\Projeto3_ICG_VS2019\obj\Debug\Projeto3_TESTE_ICG.Form1.resources
+C:\Users\Pedro\Downloads\Projeto3_ICG_VS2019\Projeto3_ICG_VS2019\Projeto3_ICG_VS2019\obj\Debug\Projeto3_TESTE_ICG.csproj.GenerateResource.cache
+C:\Users\Pedro\Downloads\Projeto3_ICG_VS2019\Projeto3_ICG_VS2019\Projeto3_ICG_VS2019\obj\Debug\Projeto3_TESTE_ICG.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Downloads\Projeto3_ICG_VS2019\Projeto3_ICG_VS2019\Projeto3_ICG_VS2019\obj\Debug\Projeto3_TESTE_ICG.exe
+C:\Users\Pedro\Downloads\Projeto3_ICG_VS2019\Projeto3_ICG_VS2019\Projeto3_ICG_VS2019\obj\Debug\Projeto3_TESTE_ICG.pdb
